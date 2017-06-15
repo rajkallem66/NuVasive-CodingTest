@@ -1,0 +1,6 @@
+C:\Raj\NuVasive\Nuvasive\Nuvasive\bin\Debug\Nuvasive.exe.config
+C:\Raj\NuVasive\Nuvasive\Nuvasive\bin\Debug\Nuvasive.exe
+C:\Raj\NuVasive\Nuvasive\Nuvasive\bin\Debug\Nuvasive.pdb
+C:\Raj\NuVasive\Nuvasive\Nuvasive\obj\Debug\Nuvasive.csprojResolveAssemblyReference.cache
+C:\Raj\NuVasive\Nuvasive\Nuvasive\obj\Debug\Nuvasive.exe
+C:\Raj\NuVasive\Nuvasive\Nuvasive\obj\Debug\Nuvasive.pdb
